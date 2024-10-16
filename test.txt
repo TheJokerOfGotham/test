@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi, Hello, Hey
 
+=======
+Hi, Hello, Hey, Hiya
+>>>>>>> b2
